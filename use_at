@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp ./rad.db $1/remedy/rad/rad.db
