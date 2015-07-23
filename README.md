@@ -33,3 +33,12 @@ If your full path includes one or more spaces, you will need to surround the pat
 ```
 import_from "C:\Users\Rad\Documents\Code\GitHub Projects\radremedy"
 ```
+
+## Sample Data
+
+This contains data scraped from the [GoAffirmations](http://health.goaffirmations.org/) database. Instead of using the existing category structure present on the production site, the categories listed by these scraped resources were used. Finally, the data was scraped after it was geocoded.
+
+The following user accounts are available with a password of "testpass":
+
+- admin - An administrative user.
+- user - A standard user.
